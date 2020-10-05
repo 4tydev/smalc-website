@@ -10,7 +10,7 @@ Proyecto desarrollado por estudiantes del [Tec de Monterrey][tec] con el fin de 
 ## Referencias ##
 
 
-Aqui les dejo unas cuantas referencias a mi equipo pa que no se pierda y no se estrese :grin:
+Aqui les dejo unas cuantas referencias pa que no se pierda ni se estrese mi equipo. :grin:
 
 
 ### Frontend ###
