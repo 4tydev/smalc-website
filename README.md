@@ -15,16 +15,13 @@ Aqui les dejo unas cuantas referencias pa que no se pierda ni se estrese mi equi
 
 ### Frontend ###
 
-Tutorial Vue.js: https://www.taniarascia.com/getting-started-with-vue/, **FALTA UNA LIGA QUE RECOMENDÓ EL PROFE**
-
+Tutorial Vue.js: https://www.taniarascia.com/getting-started-with-vue/
 Tutorial de Bootstrap: https://www.w3schools.com/bootstrap4/.
 
-Tutorial HTML/CSS/JS **Lo Basico**: https://medium.com/@magyarn/build-a-simple-static-portfolio-site-with-html-css-and-javascript-part-1-3cbc9d12e7b1 **Para desarrollar una pagina simple, pero linda
+Tutorial HTML/CSS/JS **Lo Basico**: https://medium.com/@magyarn/build-a-simple-static-portfolio-site-with-html-css-and-javascript-part-1-3cbc9d12e7b1
 
 
 #### Opcional ####
-
-**Opcional porque no es necesario solo por si se animan meterle algo de esto**
 
 Angular.js: https://docs.angularjs.org/tutorial
 
@@ -40,13 +37,13 @@ Python Server/Client: https://realpython.com/python-sockets/
 
 Node.js Server/Client: https://tsh.io/blog/socket-io-tutorial-real-time-communication/
 
-Firebase **Se me hace super facil de usar** para la base de datos: https://firebase.google.com/docs/firestore/quickstart
+Firebase: https://firebase.google.com/docs/firestore/quickstart
 
 
 #### Opcional ####
 
 
-Meteor.js **Servicio medio nuevo para hacer el backend de una app. Utiliza MongoDB por default**: https://www.meteor.com/tutorials
+Meteor.js: https://www.meteor.com/tutorials
 
 
 
